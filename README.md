@@ -21,18 +21,12 @@ I'm **Pasindu Dhanushka Ranasinghe**, an **Information Systems undergraduate at 
 
 I'm interested in the space where **software development meets infrastructure**. I enjoy developing applications, understanding the systems they run on, and learning how to make software delivery more reliable through containers, automation, and cloud technology.
 
-## Tech Stack
+## Current Focus
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=aws,linux,docker,git,github,githubactions,js,ts,nextjs,nestjs&perline=10" alt="AWS, Linux, Docker, Git, GitHub, GitHub Actions, JavaScript, TypeScript, Next.js and NestJS">
-</div>
-
-| Area | Tools & topics |
-|:--|:--|
-| **Cloud & infrastructure** | AWS fundamentals, Linux, networking |
-| **DevOps & delivery** | Docker, Git, GitHub, CI/CD concepts |
-| **Software development** | JavaScript, TypeScript, Next.js, NestJS |
-| **Engineering interests** | Automation, troubleshooting, maintainability, collaboration |
+- ☁️ **Cloud & infrastructure:** AWS fundamentals, Linux system administration, networking and cloud infrastructure.
+- 🐳 **DevOps & automation:** Docker, Git, GitHub, CI/CD pipelines, reliable deployments and troubleshooting.
+- 💻 **Software engineering:** Building web applications with JavaScript, TypeScript, Next.js and NestJS, with an emphasis on clean, maintainable code.
+- 🧩 **Backend & architecture:** API development, modular system design, testing and collaborative development.
 
 ## Featured Projects
 
@@ -66,14 +60,6 @@ I'm interested in the space where **software development meets infrastructure**.
 </div>
 
 <sub>Generated daily by GitHub Actions and published from the `output` branch.</sub>
-
-## Current Focus
-
-- ☁️ **Cloud:** AWS fundamentals, infrastructure and networking.
-- 🐧 **Linux & containers:** systems administration, Docker and practical troubleshooting.
-- 🔁 **Delivery:** CI/CD concepts and reproducible deployment workflows.
-- 💻 **Backend:** APIs, maintainable application architecture and teamwork.
-
 
 ## Recent Activity
 
