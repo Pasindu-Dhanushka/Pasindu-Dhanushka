@@ -94,12 +94,33 @@ I'm interested in the space where **software development meets infrastructure** 
 
 <sub>These live graphics depend on third-party services and may be temporarily unavailable. Language distribution reflects repository code, not skill level.</sub>
 
+
+### `05.1 // CONTRIBUTION.SNAKE`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pasindu-Dhanushka/Pasindu-Dhanushka/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pasindu-Dhanushka/Pasindu-Dhanushka/output/github-contribution-grid-snake.svg">
+    <img width="100%" alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/Pasindu-Dhanushka/Pasindu-Dhanushka/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<sub>Generated daily by GitHub Actions and published from the `output` branch.</sub>
+
 ### `06 // CURRENT.FOCUS`
 
 - ☁️ **Cloud:** AWS fundamentals, infrastructure and networking.
 - 🐧 **Linux & containers:** systems administration, Docker and practical troubleshooting.
 - 🔁 **Delivery:** CI/CD concepts and reproducible deployment workflows.
 - 💻 **Backend:** APIs, maintainable application architecture and teamwork.
+
+
+### `06.1 // RECENT.ACTIVITY`
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<sub>Populated automatically by the GitHub Activity workflow when supported public activity is available.</sub>
 
 ### `07 // LETS.CONNECT`
 
