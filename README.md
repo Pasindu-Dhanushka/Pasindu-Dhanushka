@@ -15,13 +15,13 @@
 
 ---
 
-### `01 // ABOUT ME`
+## About Me
 
 I'm **Pasindu Dhanushka Ranasinghe**, an **Information Systems undergraduate at the University of Colombo School of Computing (UCSC)**, Sri Lanka.
 
 I'm interested in the space where **software development meets infrastructure**. I enjoy developing applications, understanding the systems they run on, and learning how to make software delivery more reliable through containers, automation, and cloud technology.
 
-### `02 // TECH.STACK`
+## Tech Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=aws,linux,docker,git,github,githubactions,js,ts,nextjs,nestjs,nodejs&perline=11" alt="AWS, Linux, Docker, Git, GitHub, GitHub Actions, JavaScript, TypeScript, Next.js, NestJS and Node.js">
@@ -34,7 +34,7 @@ I'm interested in the space where **software development meets infrastructure**.
 | **Software development** | JavaScript, TypeScript, Next.js, NestJS, Node.js |
 | **Engineering interests** | Automation, troubleshooting, maintainability, collaboration |
 
-### `03 // DELIVERY.PIPELINE`
+## Delivery Pipeline
 
 <div align="center">
 <img src="assets/pipeline.svg" width="100%" alt="Build, package, automate, deploy and improve — visual DevOps pipeline">
@@ -42,7 +42,7 @@ I'm interested in the space where **software development meets infrastructure**.
 
 > The cycle I'm learning to put into practice: **build → package → automate → deploy → improve**.
 
-### `04 // FEATURED.PROJECTS`
+## Featured Projects
 
 <table>
 <tr>
@@ -75,7 +75,7 @@ I'm interested in the space where **software development meets infrastructure**.
 <a href="https://github.com/Pasindu-Dhanushka?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-1677B8?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories"></a>
 </div>
 
-### `05 // GITHUB.TELEMETRY`
+## GitHub Statistics
 
 <div align="center">
   <img width="100%" src="assets/telemetry/overview.svg" alt="GitHub public repositories, stars and followers. Generated from GitHub data.">
@@ -85,7 +85,7 @@ I'm interested in the space where **software development meets infrastructure**.
 
 <sub>These SVG cards are generated from GitHub's official API and stored in this repository. GitHub Actions refreshes them daily. Language distribution measures source code bytes, not proficiency.</sub>
 
-### `05.1 // CONTRIBUTION.SNAKE`
+## Contribution Snake
 
 <div align="center">
   <picture>
@@ -97,7 +97,7 @@ I'm interested in the space where **software development meets infrastructure**.
 
 <sub>Generated daily by GitHub Actions and published from the `output` branch.</sub>
 
-### `06 // CURRENT.FOCUS`
+## Current Focus
 
 - ☁️ **Cloud:** AWS fundamentals, infrastructure and networking.
 - 🐧 **Linux & containers:** systems administration, Docker and practical troubleshooting.
@@ -105,7 +105,7 @@ I'm interested in the space where **software development meets infrastructure**.
 - 💻 **Backend:** APIs, maintainable application architecture and teamwork.
 
 
-### `06.1 // RECENT.ACTIVITY`
+## Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com/Pasindu-Dhanushka/paytrack/pull/3) in [Pasindu-Dhanushka/paytrack](https://github.com/Pasindu-Dhanushka/paytrack)
@@ -118,7 +118,7 @@ I'm interested in the space where **software development meets infrastructure**.
 
 <sub>Populated automatically by the GitHub Activity workflow when supported public activity is available.</sub>
 
-### `07 // LETS.CONNECT`
+## Connect
 
 <div align="center">
 <a href="https://www.linkedin.com/in/pasindu-dhanushka/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
