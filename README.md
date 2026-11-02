@@ -48,15 +48,3 @@ I'm interested in the space where **software development meets infrastructure**.
 <div align="center">
 <a href="https://github.com/Pasindu-Dhanushka?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-1677B8?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories"></a>
 </div>
-
-## Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pasindu-Dhanushka/Pasindu-Dhanushka/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pasindu-Dhanushka/Pasindu-Dhanushka/output/github-contribution-grid-snake.svg">
-    <img width="100%" alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/Pasindu-Dhanushka/Pasindu-Dhanushka/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<sub>Generated daily by GitHub Actions and published from the `output` branch.</sub>
