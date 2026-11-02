@@ -44,21 +44,9 @@ I'm interested in the space where **software development meets infrastructure**.
 <p><code>PHP</code> <code>JavaScript</code> <code>MySQL</code> <code>MVC</code></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/Pasindu-Dhanushka/AI-Driven-Skill-to-Career-Pathway-Predictor">🧠 AI Career Pathway Predictor</a></h3>
-<p>A prototype connecting students' skills and interests to career pathways, skill gaps and learning roadmaps, with Sri Lanka-focused context.</p>
-<p><code>MERN</code> <code>Career matching</code></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Pasindu-Dhanushka/myflows">🔀 myflows / BizFlows</a></h3>
+<h3><a href="https://github.com/Pasindu-Dhanushka/myflows">🔀 BizFlows</a></h3>
 <p>An exploratory workflow automation project exploring configuration-driven flows and a planned visual flow designer.</p>
 <p><code>Workflow design</code> <code>JSON / YAML</code></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Pasindu-Dhanushka/ci-cd-tutorial-sample-app">⚙️ CI/CD Learning Lab</a></h3>
-<p>A sample Flask application for studying automated testing, containerization and GitHub Actions workflows.</p>
-<p><code>Python</code> <code>Flask</code> <code>Docker</code> <code>GitHub Actions</code></p>
 </td>
 </tr>
 </table>
