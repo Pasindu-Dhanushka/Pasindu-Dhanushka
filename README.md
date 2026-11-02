@@ -118,6 +118,12 @@ I'm interested in the space where **software development meets infrastructure** 
 ### `06.1 // RECENT.ACTIVITY`
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/Pasindu-Dhanushka/paytrack/pull/3) in [Pasindu-Dhanushka/paytrack](https://github.com/Pasindu-Dhanushka/paytrack)
+2. 💪 Opened PR [#3](https://github.com/Pasindu-Dhanushka/paytrack/pull/3) in [Pasindu-Dhanushka/paytrack](https://github.com/Pasindu-Dhanushka/paytrack)
+3. 🎉 Merged PR [#2](https://github.com/Pasindu-Dhanushka/paytrack/pull/2) in [Pasindu-Dhanushka/paytrack](https://github.com/Pasindu-Dhanushka/paytrack)
+4. 💪 Opened PR [#2](https://github.com/Pasindu-Dhanushka/paytrack/pull/2) in [Pasindu-Dhanushka/paytrack](https://github.com/Pasindu-Dhanushka/paytrack)
+5. 🎉 Merged PR [#1](https://github.com/Pasindu-Dhanushka/paytrack/pull/1) in [Pasindu-Dhanushka/paytrack](https://github.com/Pasindu-Dhanushka/paytrack)
+6. 💪 Opened PR [#1](https://github.com/Pasindu-Dhanushka/paytrack/pull/1) in [Pasindu-Dhanushka/paytrack](https://github.com/Pasindu-Dhanushka/paytrack)
 <!--END_SECTION:activity-->
 
 <sub>Populated automatically by the GitHub Activity workflow when supported public activity is available.</sub>
