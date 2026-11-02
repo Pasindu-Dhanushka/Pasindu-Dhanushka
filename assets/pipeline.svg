@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 160" role="img" aria-labelledby="title desc">
+<title id="title">Pasindu's engineering workflow</title>
+<desc id="desc">A five-stage pipeline: Build, Containerize, Automate, Deploy, Improve.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0B1224"/><stop offset="1" stop-color="#0D2A3E"/></linearGradient><linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#3177F8"/><stop offset="1" stop-color="#18C6C9"/></linearGradient></defs>
+<rect width="1160" height="160" rx="19" fill="url(#bg)"/>
+<text x="37" y="31" font-family="Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="2.2" font-weight="700" fill="#62CEEC">THE DELIVERY LOOP</text>
+<path d="M136 94 H1024" stroke="url(#edge)" stroke-width="3" stroke-dasharray="8 9" opacity=".6"/>
+<g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+<g transform="translate(129 91)"><rect x="-89" y="-31" rx="12" width="178" height="64" fill="#16273F" stroke="#426BA5"/><text y="-2" font-size="19" font-weight="800" fill="#F0F7FF">01  BUILD</text><text y="19" font-size="11" fill="#A4BDD2">write &amp; test</text></g>
+<g transform="translate(354 91)"><rect x="-89" y="-31" rx="12" width="178" height="64" fill="#16273F" stroke="#426BA5"/><text y="-2" font-size="17" font-weight="800" fill="#F0F7FF">02  PACKAGE</text><text y="19" font-size="11" fill="#A4BDD2">containerize</text></g>
+<g transform="translate(579 91)"><rect x="-89" y="-31" rx="12" width="178" height="64" fill="#16273F" stroke="#426BA5"/><text y="-2" font-size="17" font-weight="800" fill="#F0F7FF">03  AUTOMATE</text><text y="19" font-size="11" fill="#A4BDD2">CI / CD</text></g>
+<g transform="translate(804 91)"><rect x="-89" y="-31" rx="12" width="178" height="64" fill="#16273F" stroke="#426BA5"/><text y="-2" font-size="19" font-weight="800" fill="#F0F7FF">04  DEPLOY</text><text y="19" font-size="11" fill="#A4BDD2">cloud operations</text></g>
+<g transform="translate(1029 91)"><rect x="-89" y="-31" rx="12" width="178" height="64" fill="#113449" stroke="#22BFCB"/><text y="-2" font-size="19" font-weight="800" fill="#D7FEFF">05  IMPROVE</text><text y="19" font-size="11" fill="#A4D9DE">measure &amp; learn</text></g>
+</g></svg>
