@@ -60,26 +60,3 @@ I'm interested in the space where **software development meets infrastructure**.
 </div>
 
 <sub>Generated daily by GitHub Actions and published from the `output` branch.</sub>
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Pasindu-Dhanushka/paytrack/pull/3) in [Pasindu-Dhanushka/paytrack](https://github.com/Pasindu-Dhanushka/paytrack)
-2. 💪 Opened PR [#3](https://github.com/Pasindu-Dhanushka/paytrack/pull/3) in [Pasindu-Dhanushka/paytrack](https://github.com/Pasindu-Dhanushka/paytrack)
-3. 🎉 Merged PR [#2](https://github.com/Pasindu-Dhanushka/paytrack/pull/2) in [Pasindu-Dhanushka/paytrack](https://github.com/Pasindu-Dhanushka/paytrack)
-4. 💪 Opened PR [#2](https://github.com/Pasindu-Dhanushka/paytrack/pull/2) in [Pasindu-Dhanushka/paytrack](https://github.com/Pasindu-Dhanushka/paytrack)
-5. 🎉 Merged PR [#1](https://github.com/Pasindu-Dhanushka/paytrack/pull/1) in [Pasindu-Dhanushka/paytrack](https://github.com/Pasindu-Dhanushka/paytrack)
-6. 💪 Opened PR [#1](https://github.com/Pasindu-Dhanushka/paytrack/pull/1) in [Pasindu-Dhanushka/paytrack](https://github.com/Pasindu-Dhanushka/paytrack)
-<!--END_SECTION:activity-->
-
-<sub>Populated automatically by the GitHub Activity workflow when supported public activity is available.</sub>
-
-## Connect
-
-<div align="center">
-<a href="https://www.linkedin.com/in/pasindu-dhanushka/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/Pasindu-Dhanushka"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-
-<br><br>
-<em>Curious about the entire journey — from the first line of code to the running system.</em>
-</div>
