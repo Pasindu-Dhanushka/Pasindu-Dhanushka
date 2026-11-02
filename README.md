@@ -84,16 +84,12 @@ I'm interested in the space where **software development meets infrastructure** 
 ### `05 // GITHUB.TELEMETRY`
 
 <div align="center">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Pasindu-Dhanushka&show_icons=true&hide_border=true&bg_color=0B1224&title_color=22D3EE&text_color=DCE8F3&icon_color=60A5FA&rank_icon=github" alt="Live public GitHub statistics">
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu-Dhanushka&layout=compact&hide_border=true&bg_color=0B1224&title_color=22D3EE&text_color=DCE8F3&langs_count=6" alt="Most-used public repository languages">
-<br>
-<img src="https://streak-stats.demolab.com?user=Pasindu-Dhanushka&theme=tokyonight&hide_border=true&background=0B1224&ring=22D3EE&fire=60A5FA&currStreakLabel=22D3EE" alt="GitHub contribution streak">
-<br>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pasindu-Dhanushka&bg_color=0B1224&color=B8D5E5&line=22D3EE&point=60A5FA&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph">
+  <img width="100%" src="assets/telemetry/overview.svg" alt="GitHub public repositories, stars and followers. Generated from GitHub data.">
+  <br>
+  <img width="100%" src="assets/telemetry/languages.svg" alt="Language distribution across public non-fork GitHub repositories.">
 </div>
 
-<sub>These live graphics depend on third-party services and may be temporarily unavailable. Language distribution reflects repository code, not skill level.</sub>
-
+<sub>These SVG cards are generated from GitHub's official API and stored in this repository. GitHub Actions refreshes them daily. Language distribution measures source code bytes, not proficiency.</sub>
 
 ### `05.1 // CONTRIBUTION.SNAKE`
 
