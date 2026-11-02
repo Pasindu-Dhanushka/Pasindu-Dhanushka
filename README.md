@@ -55,16 +55,6 @@ I'm interested in the space where **software development meets infrastructure**.
 <a href="https://github.com/Pasindu-Dhanushka?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-1677B8?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories"></a>
 </div>
 
-## GitHub Statistics
-
-<div align="center">
-  <img width="100%" src="assets/telemetry/overview.svg" alt="GitHub public repositories, stars and followers. Generated from GitHub data.">
-  <br>
-  <img width="100%" src="assets/telemetry/languages.svg" alt="Language distribution across public non-fork GitHub repositories.">
-</div>
-
-<sub>These SVG cards are generated from GitHub's official API and stored in this repository. GitHub Actions refreshes them daily. Language distribution measures source code bytes, not proficiency.</sub>
-
 ## Contribution Snake
 
 <div align="center">
