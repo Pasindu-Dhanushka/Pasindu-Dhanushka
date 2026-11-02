@@ -15,16 +15,11 @@
 
 ---
 
-### `01 // WHOAMI`
+### `01 // ABOUT ME`
 
 I'm **Pasindu Dhanushka Ranasinghe**, an **Information Systems undergraduate at the University of Colombo School of Computing (UCSC)**, Sri Lanka.
 
-I'm interested in the space where **software development meets infrastructure** — developing applications, understanding the systems they run on, and learning how to make software delivery more reliable through containers, automation, and cloud technology.
-
-<table><tr>
-<td width="50%" valign="top"><strong>🛠️ What I'm building</strong><br><br>Hands-on projects in web development, software workflows, Linux and delivery automation.</td>
-<td width="50%" valign="top"><strong>🎯 Where I'm heading</strong><br><br>DevOps and Cloud Engineering, backed by software engineering fundamentals and a practical learning mindset.</td>
-</tr></table>
+I'm interested in the space where **software development meets infrastructure**. I enjoy developing applications, understanding the systems they run on, and learning how to make software delivery more reliable through containers, automation, and cloud technology.
 
 ### `02 // TECH.STACK`
 
