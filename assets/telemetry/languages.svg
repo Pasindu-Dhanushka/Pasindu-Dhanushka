@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="436" viewBox="0 0 920 436" role="img" aria-labelledby="title desc">
+<title id="title">Languages across Pasindu&#x27;s public repositories</title>
+<desc id="desc">GitHub language byte totals for non-fork public repositories.</desc>
+<defs><linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1528"/><stop offset="1" stop-color="#123047"/></linearGradient></defs>
+<rect width="920" height="436" rx="18" fill="url(#panel)"/>
+<rect x="1" y="1" width="918" height="434" rx="17" stroke="#2D536C" stroke-width="2" fill="none"/>
+<rect x="1" y="1" width="918" height="5" rx="3" fill="#20BED0"/>
+<text x="33" y="43" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" text-anchor="start" fill="#5DE3ED">LANGUAGES // REPOSITORY CODE</text>
+<text x="33" y="70" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="400" text-anchor="start" fill="#A8C1D3">Source: GitHub language byte counts in public, non-fork repositories</text>
+<text x="36" y="115" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" text-anchor="start" fill="#E8F7FF">TypeScript</text>
+<text x="880" y="115" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" text-anchor="end" fill="#A7D6EB">87.4%</text>
+<rect x="226" y="99" rx="6" width="545" height="15" fill="#203A50"/>
+<rect x="226" y="99" rx="6" width="477" height="15" fill="#26C8D9"/>
+<text x="36" y="162" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" text-anchor="start" fill="#E8F7FF">PHP</text>
+<text x="880" y="162" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" text-anchor="end" fill="#A7D6EB">4.8%</text>
+<rect x="226" y="146" rx="6" width="545" height="15" fill="#203A50"/>
+<rect x="226" y="146" rx="6" width="26" height="15" fill="#26C8D9"/>
+<text x="36" y="209" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" text-anchor="start" fill="#E8F7FF">CSS</text>
+<text x="880" y="209" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" text-anchor="end" fill="#A7D6EB">3.7%</text>
+<rect x="226" y="193" rx="6" width="545" height="15" fill="#203A50"/>
+<rect x="226" y="193" rx="6" width="20" height="15" fill="#26C8D9"/>
+<text x="36" y="256" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" text-anchor="start" fill="#E8F7FF">JavaScript</text>
+<text x="880" y="256" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" text-anchor="end" fill="#A7D6EB">1.9%</text>
+<rect x="226" y="240" rx="6" width="545" height="15" fill="#203A50"/>
+<rect x="226" y="240" rx="6" width="11" height="15" fill="#26C8D9"/>
+<text x="36" y="303" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" text-anchor="start" fill="#E8F7FF">C#</text>
+<text x="880" y="303" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" text-anchor="end" fill="#A7D6EB">1.6%</text>
+<rect x="226" y="287" rx="6" width="545" height="15" fill="#203A50"/>
+<rect x="226" y="287" rx="6" width="9" height="15" fill="#26C8D9"/>
+<text x="36" y="350" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" text-anchor="start" fill="#E8F7FF">Java</text>
+<text x="880" y="350" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" text-anchor="end" fill="#A7D6EB">0.3%</text>
+<rect x="226" y="334" rx="6" width="545" height="15" fill="#203A50"/>
+<rect x="226" y="334" rx="6" width="2" height="15" fill="#26C8D9"/>
+<text x="33" y="418" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#759AAF">Last refreshed: 02 Nov 2026, 17:28 UTC  |  Not a measurement of proficiency</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="252" viewBox="0 0 920 252" role="img" aria-labelledby="title desc">
+<title id="title">Pasindu Dhanushka GitHub profile stats</title>
+<desc id="desc">Public repository count, stars on original repositories, and follower count.</desc>
+<defs><linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1528"/><stop offset="1" stop-color="#123047"/></linearGradient></defs>
+<rect width="920" height="252" rx="18" fill="url(#panel)"/>
+<rect x="1" y="1" width="918" height="250" rx="17" stroke="#2D536C" stroke-width="2" fill="none"/>
+<rect x="1" y="1" width="918" height="5" rx="3" fill="#20BED0"/>
+<text x="33" y="43" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" text-anchor="start" fill="#5DE3ED">GITHUB // PUBLIC TELEMETRY</text>
+<text x="33" y="70" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="400" text-anchor="start" fill="#A8C1D3">Automatically updated using GitHub&#x27;s official API</text>
+<rect x="32" y="93" width="277" height="121" rx="12" fill="#13273B" stroke="#2E5D77"/>
+<text x="52" y="119" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#83AFC6">PUBLIC REPOS</text>
+<text x="52" y="167" font-family="Segoe UI,Arial,sans-serif" font-size="41" font-weight="750" text-anchor="start" fill="#F1FCFF">10</text>
+<text x="52" y="191" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#9DBED0">Visible repositories</text>
+<rect x="329" y="93" width="277" height="121" rx="12" fill="#13273B" stroke="#2E5D77"/>
+<text x="349" y="119" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#83AFC6">REPO STARS</text>
+<text x="349" y="167" font-family="Segoe UI,Arial,sans-serif" font-size="41" font-weight="750" text-anchor="start" fill="#F1FCFF">0</text>
+<text x="349" y="191" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#9DBED0">Non-fork public repos</text>
+<rect x="626" y="93" width="277" height="121" rx="12" fill="#13273B" stroke="#2E5D77"/>
+<text x="646" y="119" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#83AFC6">FOLLOWERS</text>
+<text x="646" y="167" font-family="Segoe UI,Arial,sans-serif" font-size="41" font-weight="750" text-anchor="start" fill="#F1FCFF">2</text>
+<text x="646" y="191" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#9DBED0">GitHub community</text>
+<text x="33" y="237" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#759AAF">Last refreshed: 02 Nov 2026, 17:28 UTC</text>
+</svg>
