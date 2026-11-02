@@ -1,0 +1,22 @@
+name: Update Recent GitHub Activity
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    name: Update Profile README with Recent Activity
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@master
+        with:
+          MAX_LINES: 7
+          COMMIT_MSG: "chore(telemetry): update recent github activity log"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
