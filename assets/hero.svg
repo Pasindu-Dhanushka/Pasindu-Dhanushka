@@ -11,8 +11,8 @@
 <rect width="1200" height="352" rx="20" fill="url(#bg)"/>
 <rect width="1200" height="352" rx="20" fill="url(#grid)"/>
 <circle cx="1050" cy="185" r="280" fill="url(#glow)"/>
-<text x="48" y="202" font-size="74" font-weight="800" font-family="Segoe UI,Arial,sans-serif" letter-spacing="1" fill="url(#name)">PASINDU</text>
-<text x="50" y="268" font-size="65" font-weight="800" font-family="Segoe UI,Arial,sans-serif" letter-spacing="1" fill="url(#name)">DHANUSHKA</text>
+<text x="48" y="170" font-size="74" font-weight="800" font-family="Segoe UI,Arial,sans-serif" letter-spacing="1" fill="url(#name)">PASINDU</text>
+<text x="50" y="236" font-size="65" font-weight="800" font-family="Segoe UI,Arial,sans-serif" letter-spacing="1" fill="url(#name)">DHANUSHKA</text>
 <rect x="752" y="54" width="395" height="235" rx="15" fill="#0A1223" stroke="#38617E" stroke-width="1.5"/>
 <path d="M752 69 Q752 54 767 54 H1132 Q1147 54 1147 69 V94 H752 Z" fill="#17263D"/>
 <circle cx="775" cy="74" r="5.5" fill="#FF667E"/>
