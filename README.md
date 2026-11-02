@@ -4,6 +4,11 @@
 
 <br>
 
+<a href="https://github.com/Pasindu-Dhanushka?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-307BCE?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1224" alt="Explore repositories"></a>
+<a href="https://www.linkedin.com/in/pasindu-dhanushka/"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0A9BBB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1224" alt="Connect on LinkedIn"></a>
+
+<br><br>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3100&pause=1100&color=18BBD2&center=true&vCenter=true&width=820&height=42&lines=Information+Systems+Undergraduate+%40+UCSC;DevOps+%26+Cloud+Engineering+Enthusiast;Learning+to+build%2C+automate+%26+ship+better+software" alt="Animated profile introduction">
 
 </div>
