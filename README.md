@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Pasindu Dhanushka — DevOps, Cloud and Software Engineering" />
+<img src="assets/hero-centered.svg" width="100%" alt="Pasindu Dhanushka — DevOps, Cloud and Software Engineering" />
 
 <br>
 
