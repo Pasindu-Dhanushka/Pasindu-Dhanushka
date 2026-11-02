@@ -46,7 +46,7 @@ I'm interested in the space where **software development meets infrastructure**.
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Pasindu-Dhanushka/myflows">🔀 BizFlows</a></h3>
 <p>An exploratory workflow automation project exploring configuration-driven flows and a planned visual flow designer.</p>
-<p><code>Workflow design</code> <code>JSON / YAML</code></p>
+<p><code>Modular Monolith</code> <code>Next.js</code> <code>NestJS</code></p>
 </td>
 </tr>
 </table>
