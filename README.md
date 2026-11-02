@@ -24,23 +24,15 @@ I'm interested in the space where **software development meets infrastructure**.
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=aws,linux,docker,git,github,githubactions,js,ts,nextjs,nestjs,nodejs&perline=11" alt="AWS, Linux, Docker, Git, GitHub, GitHub Actions, JavaScript, TypeScript, Next.js, NestJS and Node.js">
+<img src="https://skillicons.dev/icons?i=aws,linux,docker,git,github,githubactions,js,ts,nextjs,nestjs&perline=10" alt="AWS, Linux, Docker, Git, GitHub, GitHub Actions, JavaScript, TypeScript, Next.js and NestJS">
 </div>
 
 | Area | Tools & topics |
 |:--|:--|
 | **Cloud & infrastructure** | AWS fundamentals, Linux, networking |
 | **DevOps & delivery** | Docker, Git, GitHub, CI/CD concepts |
-| **Software development** | JavaScript, TypeScript, Next.js, NestJS, Node.js |
+| **Software development** | JavaScript, TypeScript, Next.js, NestJS |
 | **Engineering interests** | Automation, troubleshooting, maintainability, collaboration |
-
-## Delivery Pipeline
-
-<div align="center">
-<img src="assets/pipeline.svg" width="100%" alt="Build, package, automate, deploy and improve — visual DevOps pipeline">
-</div>
-
-> The cycle I'm learning to put into practice: **build → package → automate → deploy → improve**.
 
 ## Featured Projects
 
