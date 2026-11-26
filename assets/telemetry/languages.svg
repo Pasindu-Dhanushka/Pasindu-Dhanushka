@@ -8,9 +8,9 @@
 <text x="33" y="43" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" text-anchor="start" fill="#5DE3ED">LANGUAGES // REPOSITORY CODE</text>
 <text x="33" y="70" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="400" text-anchor="start" fill="#A8C1D3">Source: GitHub language byte counts in public, non-fork repositories</text>
 <text x="36" y="115" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" text-anchor="start" fill="#E8F7FF">TypeScript</text>
-<text x="880" y="115" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" text-anchor="end" fill="#A7D6EB">87.3%</text>
+<text x="880" y="115" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" text-anchor="end" fill="#A7D6EB">87.2%</text>
 <rect x="226" y="99" rx="6" width="545" height="15" fill="#203A50"/>
-<rect x="226" y="99" rx="6" width="476" height="15" fill="#26C8D9"/>
+<rect x="226" y="99" rx="6" width="475" height="15" fill="#26C8D9"/>
 <text x="36" y="162" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" text-anchor="start" fill="#E8F7FF">PHP</text>
 <text x="880" y="162" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" text-anchor="end" fill="#A7D6EB">3.9%</text>
 <rect x="226" y="146" rx="6" width="545" height="15" fill="#203A50"/>
@@ -31,5 +31,5 @@
 <text x="880" y="350" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" text-anchor="end" fill="#A7D6EB">0.4%</text>
 <rect x="226" y="334" rx="6" width="545" height="15" fill="#203A50"/>
 <rect x="226" y="334" rx="6" width="2" height="15" fill="#26C8D9"/>
-<text x="33" y="418" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#759AAF">Last refreshed: 25 Nov 2026, 13:08 UTC  |  Not a measurement of proficiency</text>
+<text x="33" y="418" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#759AAF">Last refreshed: 26 Nov 2026, 12:47 UTC  |  Not a measurement of proficiency</text>
 </svg>
